@@ -1,2 +1,2 @@
-# AgriChatBot
+# AgriBotGH
 Final Year Progect
